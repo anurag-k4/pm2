@@ -19,6 +19,11 @@
   <img src="https://travis-ci.org/Unitech/pm2.svg?branch=master" alt="Build Status"/>
 </a>
 
+<a href="https://travis-ci.org/Unitech/pm2">
+  <img src="https://travis-ci.org/Unitech/pm2.svg?branch=master" alt="Build Status"/>
+</a>
+
+<a href="https://snyk.io/test/github/anurag-k4/pm2"><img src="https://snyk.io/test/github/anurag-k4/pm2/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/anurag-k4/pm2" style="max-width:100%;"></a>
 
 <br/>
 <br/>
